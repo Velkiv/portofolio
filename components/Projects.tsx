@@ -6,7 +6,7 @@ export default function Projects() {
                 <div className="flex-col basis-1/2 bg-zinc-400 w-1/1 h-50 p-3 rounded-xl">
                     <h1>Web Development</h1>
                 </div> 
-                <div className="flex-col basis-1/2 bg-zinc-400 w-1/1 h-50 p-3 rounded-xl">
+                <div className="flex-col basis-1/2 bg-zinc-400 w-1/1 h-50 p-3 rounded-xl justify-items-center">
                     <h1>Data Analysis & Machine Learning</h1>
                 </div>
             </div>        
