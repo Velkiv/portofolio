@@ -119,43 +119,28 @@ export default function AboutPage() {
                     <div className="flex flex-col flex-wrap bg-zinc-500 rounded-xl justify-center p-5 mb-20">
                         <h1 className="text-[30px] text-white text-center font-bold">Language & Framework</h1>
                         <div className="flex flex-wrap p-5 gap-5 rounded-xl justify-center">
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">CSS</span>
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">Javascript</span>
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">Next.js</span>
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">Go</span>
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">Python</span>
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">Laravel</span>
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">Flutter</span>
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">PostgreSQL</span>
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">MySQL</span>
                         </div>
                     </div>
                     
                     <div className="flex flex-col flex-wrap bg-zinc-500 rounded-xl justify-center p-5 mb-20">
                         <h1 className="text-[30px] text-white text-center font-bold">Tools</h1>
                         <div className="flex flex-wrap p-5 gap-5 rounded-xl justify-center">
-                            <span className="px-1 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-1 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-1 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span><span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
-                            
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">Visual Studio Code</span>
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">Git</span>
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">Github</span>
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">Google Colab</span>
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">Postman</span>
+                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">Figma</span>
                         </div>
                     </div>
                 </div>
