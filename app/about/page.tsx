@@ -119,7 +119,7 @@ export default function AboutPage() {
                     <div className="flex flex-col flex-wrap bg-zinc-500 rounded-xl justify-center p-5 mb-20">
                         <h1 className="text-[30px] text-white text-center font-bold">Language & Framework</h1>
                         <div className="flex flex-wrap p-5 gap-5 rounded-xl justify-center">
-                            <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
+                            <span className="px-2 py-1 justify-items-center bg-zinc-900 text-white rounded-xl">HTML</span>
                             <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">CSS</span>
                             <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">Javascript</span>
                             <span className="px-2 py-2 justify-items-center bg-zinc-900 text-white rounded-xl">Next.js</span>
